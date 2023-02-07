@@ -12,5 +12,5 @@
     <a href="https://0xrusowsky.substack.com/" target="_blank"><img alt="Substack"
         src="https://img.shields.io/badge/substack-substack-orange"/></a>
     <a href="https://dune.com/0xrusowsky/" target="_blank"><img alt="Dune"
-        src="https://img.shields.io/badge/dune-orange-dune-purple"/></a>
+        src="https://img.shields.io/badge/dune-dune-purple"/></a>
 </p>
