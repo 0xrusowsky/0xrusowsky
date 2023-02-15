@@ -1,6 +1,6 @@
 
 -  Hi there👋 I'm @0xrusowsky an aspiring crypto dev.
--  Currently doing R&D efforts at [Olympus DAO](https://www.olympusdao.finance/), and teaching at [Artemis Education](https://www.artemis.education/)
+-  Currently doing R&D efforts at [Olympus DAO](https://www.olympusdao.finance/), and helping scale [Artemis Education](https://www.artemis.education/)
 -  Interested in data-modeling, blockchain technology, security, and cryptography. 
 -  Always curious and eager to learn more.
 
