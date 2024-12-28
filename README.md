@@ -1,7 +1,6 @@
 
 -  Hi there👋 I'm @0xrusowsky an aspiring crypto dev.
--  Helping scale [Arrakis Finance](https://app.arrakis.fi/). Previously [Olympus DAO](https://www.olympusdao.finance/).
--  Interested in blockchain technology, computer science, data modeling, and security. 
+-  Interested in distributed systems, blockchain technology, computer science, data modeling, and security. 
 -  Always curious and eager to learn more.
 
 <p> 
